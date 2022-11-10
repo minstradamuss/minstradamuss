@@ -3,7 +3,7 @@ I'm Maria, first year student of Computer Technologies Department in ITMO Univer
 
 #### Tech stack
 * Python - always use it in labs
-* C++ - completed introduction course, use in labs for algorithms & discrete math
+* C++ - sometimes use in labs, in active study
 
 How to reach me: 
 * Telegram @minstradamussss
