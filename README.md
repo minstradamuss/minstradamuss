@@ -6,7 +6,7 @@ I'm Maria, first year student of Computer Technologies Department in ITMO Univer
 * C++ - sometimes use in labs, in active study
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Loskutova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 How to reach me: 
