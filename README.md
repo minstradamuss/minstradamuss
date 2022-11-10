@@ -5,6 +5,10 @@ I'm Maria, first year student of Computer Technologies Department in ITMO Univer
 * Python - always use it in labs
 * C++ - sometimes use in labs, in active study
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 How to reach me: 
 * Telegram @minstradamussss
 * e-mail_1: marialembomail@gmail.com
