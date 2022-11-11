@@ -17,7 +17,7 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 - Data Science
 - Backend
 
-How to reach me: 
+### How to reach me: 
 * Telegram @minstradamussss
 * e-mail_1: marialembomail@gmail.com
 * e-mail_2: mloskutovamail@gmail.com
