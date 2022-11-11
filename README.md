@@ -8,7 +8,7 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 * Kotlin, SQL, TensorFlow - in active study
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 🌱 Interests:
