@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there 👋
 My name is Maria and I'm a first year student of Computer Technologies Department in ITMO University.
 
 #### Tech stack
@@ -9,6 +9,11 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+🌱 Interests:
+- ML, DL
+- Strong AI in industry
+- Data Science
+- Backend
 
 How to reach me: 
 * Telegram @minstradamussss
