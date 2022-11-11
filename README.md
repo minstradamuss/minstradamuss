@@ -1,5 +1,5 @@
 ### Hi there 
-I'm Maria, first year student of Computer Technologies Department in ITMO University.
+My name is Maria and I'm a first year student of Computer Technologies Department in ITMO University.
 
 #### Tech stack
 * Python - always use it in labs
