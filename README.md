@@ -18,7 +18,7 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 - Backend
 
 ### How to reach me: 
-* Telegram @minstradamussss
+* Telegram: @minstradamussss
 * e-mail_1: marialembomail@gmail.com
 * e-mail_2: mloskutovamail@gmail.com
 * e-mail_3: 368453@niuitmo.ru
