@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Maria and I'm a first year student of Computer Technologies Department in ITMO University.
 
+
 ⚡ Tech stack
 * Python - always use it in labs
 * C++ - sometimes use in labs, in active study
@@ -8,6 +9,7 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🌱 Interests:
 - ML, DL
