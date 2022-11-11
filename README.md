@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Maria and I'm a first year student of Computer Technologies Department in ITMO University.
 
-#### Tech stack
+⚡ Tech stack
 * Python - always use it in labs
 * C++ - sometimes use in labs, in active study
 * Kotlin, SQL, TensorFlow - in active study
