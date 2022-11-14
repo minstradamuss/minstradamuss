@@ -21,4 +21,4 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 * Telegram: @minstradamussss
 * e-mail_1: marialembomail@gmail.com
 * e-mail_2: 368453@niuitmo.ru
-* vk: https://vk.com/minstradamuss
+
