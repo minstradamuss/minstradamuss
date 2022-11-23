@@ -9,6 +9,7 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 
 ### ⚡ Algo trainings
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss)](https://github.com/anuraghazra/github-readme-stats)
 
 
