@@ -7,7 +7,7 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 * C++ - sometimes use in labs, in active study
 * Keras, Catboost, Scikit-learn, Pandas, SQL, TensorFlow - in active study
 
-### ⚡ Algo trainings
+### 😏 Algo trainings
 * Leetcode
 * Codechef
 * Young&Yandex Trainings
