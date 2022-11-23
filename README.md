@@ -8,7 +8,10 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 * Keras, Catboost, Scikit-learn, Pandas, SQL, TensorFlow - in active study
 
 ### ⚡ Algo trainings
-
+* Leetcode
+* Codechef
+* Young&Yandex Trainings
+* Tinkoff Generation
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss)](https://github.com/anuraghazra/github-readme-stats)
 
