@@ -10,8 +10,8 @@ Wanna take part in ICPC in team of Saint Petersburg State University.
 * Keras, Catboost, Scikit-learn, Pandas, SQL, TensorFlow - in active study
 
 ### 😏 Algo trainings
-* Leetcode
-* Codechef
+* Leetcode   (minstradamuss)
+* Codechef   (minstradamus)
 * Young&Yandex Trainings
 * Tinkoff Generation
 
