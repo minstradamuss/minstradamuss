@@ -14,6 +14,7 @@ Wanna take part in ICPC in team of Saint Petersburg State University.
 * Codechef   (minstradamus)
 * Young&Yandex Trainings
 * Tinkoff Generation
+* Сodeforces
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss)](https://github.com/anuraghazra/github-readme-stats)
 
