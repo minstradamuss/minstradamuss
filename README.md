@@ -22,7 +22,7 @@ Wanna take part in ICPC in team of Saint Petersburg State University.
 - ML, DL
 - Strong AI in industry
 - Data Science
-- Backend
+- Python Backend
 
 ### 💬 How to reach me: 
 * Telegram: @minstradamussss
