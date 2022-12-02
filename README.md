@@ -9,7 +9,7 @@ Wanna take part in ICPC in team of Saint Petersburg State University.
 * C++ - sometimes use in labs, in active study
 * Keras, Catboost, Scikit-learn, Pandas, SQL, TensorFlow - in active study
 
-### 😏 Algo trainings
+### 🗿 Algo trainings
 * Leetcode   (minstradamuss)
 * Codechef   (minstradamus)
 * Young&Yandex Trainings
