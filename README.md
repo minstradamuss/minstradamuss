@@ -7,7 +7,7 @@ Wanna take part in ICPC in team of Saint Petersburg State University.
 ### ⚡ Tech stack
 * Python - I use it whenever I can code
 * C++ - sometimes use in labs, in active study
-* Keras, Catboost, Scikit-learn, Pandas, SQL, TensorFlow - in active study
+* Keras, Catboost, Scikit-learn, Pandas, TensorFlow - in active study
 
 ### 🗿 Algo trainings
 * Leetcode   (minstradamuss)
