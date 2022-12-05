@@ -16,8 +16,9 @@ Wanna take part in ICPC in team of Saint Petersburg State University.
 * Tinkoff Generation
 * Сodeforces
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss)](https://github.com/anuraghazra/github-readme-stats)
-
+### 📈 GitHub Stats
+![KirillKukharev GitHub Stats](https://github-readme-stats.vercel.app/api?username=minstradamuss&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&count_private=true&hide=tsql&langs_count=9&theme=radical&layout=compact)
 
 ### 🌱 Interests:
 - ML, DL
