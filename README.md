@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Maria and I'm a first year student of Computer Technologies Department in ITMO University.
-Wanna take part in ICPC in team of St. Petersburg State University.
+
+Wanna take part in ICPC in the team of St. Petersburg State University.
 
 ### ⚡ Tech stack
 * Python - I use it whenever I can code
