@@ -4,9 +4,9 @@ My name is Maria and I'm a first year student of Computer Technologies Departmen
 Wanna take part in ICPC in the team of St. Petersburg State University.
 
 ### ⚡ Tech stack
-* Python - I use it whenever I can code
-* C++ - sometimes use in labs, in active study
-* Keras, Catboost, Scikit-learn, Pandas, TensorFlow, Solidity - in active study
+* Python
+* C++
+* Keras, Catboost, Scikit-learn, Pandas, TensorFlow, Solidity
 
 ### 🗿 Algo trainings
 * Leetcode   (minstradamuss)
@@ -20,7 +20,8 @@ Wanna take part in ICPC in the team of St. Petersburg State University.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&count_private=true&hide=tsql&langs_count=9&theme=radical&layout=compact)
 
 ### 🌱 Interests:
-- ML, DL
+- ML
+- DL
 - Strong AI in industry
 - Data Science
 - Python Backend
