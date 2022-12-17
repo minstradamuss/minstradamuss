@@ -6,7 +6,8 @@ Wanna take part in ICPC in the team of St. Petersburg State University.
 ### ⚡ Tech stack
 * Python
 * C++
-* Keras, Catboost, Scikit-learn, Pandas, TensorFlow, Solidity
+* Solidity
+* knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
 
 ### 🗿 Algo trainings
 * Leetcode   (minstradamuss)
