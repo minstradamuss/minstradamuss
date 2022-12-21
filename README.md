@@ -9,6 +9,9 @@ Wanna take part in ICPC in the team of St. Petersburg State University.
 * Solidity
 * knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
 
+### Internships
+* soon
+
 ### 🗿 Algo trainings
 * Leetcode   (minstradamuss)
 * Codechef   (minstradamus)
