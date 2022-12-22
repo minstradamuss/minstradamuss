@@ -7,7 +7,7 @@ Wanna take part in ICPC in the team of St. Petersburg State University.
 * Python
 * C++
 * Solidity
-* knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
+* good knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
 
 ### 💜 Internships
 * hope it will be 
