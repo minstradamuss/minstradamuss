@@ -10,7 +10,7 @@ Wanna take part in ICPC in the team of St. Petersburg State University.
 * knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
 
 ### 💜 Internships
-* it will be 
+* hope it will be 
 * updated 
 * soon
 
