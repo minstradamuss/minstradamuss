@@ -20,6 +20,7 @@ Wanna take part in ICPC in the team of St. Petersburg State University.
 * Young&Yandex Trainings
 * Tinkoff Generation
 * Сodeforces
+* School of Data Analysis from Yandex (hope soon) 
 
 ### 📈 GitHub Stats
 ![KirillKukharev GitHub Stats](https://github-readme-stats.vercel.app/api?username=minstradamuss&count_private=true&hide=contribs&show_icons=true&theme=radical)
