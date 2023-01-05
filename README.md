@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Maria and now I'm a first year student of Computer Technologies Department in ITMO University.
 
-Wanna take part in ICPC in the team of St. Petersburg State University. Dream of joining Andrey Lopatin's team.
+Wanna take part in ICPC in the team of St. Petersburg State University.
 
 ### ⚡ Tech stack
 * Python
