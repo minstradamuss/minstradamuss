@@ -10,7 +10,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 * good knowledge of Algorithms and Data Structures
 * good knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
 
-### ⚡ Education
+### 🍀 Education
 * Computer Technologies ITMO University (September 2022 - now)
 * St
 
