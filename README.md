@@ -14,10 +14,8 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 * Computer Technologies ITMO University (September 2022 - now)
 * St
 
-### 💜 Internships
-* hope it will be 
-* updated 
-* soon
+### 💜 Work experience
+* almost
 
 ### 🗿 Algo trainings
 * Leetcode   (minstradamuss)
