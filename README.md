@@ -3,10 +3,11 @@ My name is Maria and now I'm a first year student of Computer Technologies Depar
 
 And... Wanna take part in ICPC in the team of St. Petersburg State University.
 
-### ⚡ Tech stack
+### ⚡ Skills
 * Python
 * C++
 * Solidity
+* good knowledge of Algorithms and Data Structures
 * good knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
 
 ### 💜 Internships
@@ -32,6 +33,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 - Strong AI in industry
 - Data Science
 - Python Backend
+- C++ developer
 
 ### 💬 How to reach me: 
 * Telegram: @minstradamussss
