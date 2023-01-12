@@ -26,7 +26,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 * School of Data Analysis from Yandex (soon) 
 
 ### 📈 GitHub Stats
-![KirillKukharev GitHub Stats](https://github-readme-stats.vercel.app/api?username=minstradamuss&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minstradamus&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&count_private=true&hide=tsql&langs_count=9&theme=radical&layout=compact)
 
 ### 🌱 Interests:
