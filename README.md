@@ -27,7 +27,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 
 ### 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minstradamuss&show_icons=true&theme=tokyonight)
-some mistakes appear
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&langs_count=5&theme=tokyonight)]()
 
 
 ### 🌱 Interests:
