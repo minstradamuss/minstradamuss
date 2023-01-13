@@ -15,7 +15,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 * St
 
 ### 💜 Work experience
-* tl
+* think-cell (intern, C++ developer)
 
 ### 🗿 Algo trainings
 * Leetcode   (minstradamuss)
