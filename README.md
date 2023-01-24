@@ -19,8 +19,8 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 * think-cell (intern, C++ developer)
 
 ### 🗿 Algo trainings
-* Leetcode   (minstradamuss)
-* Codechef   (minstradamus)
+* Leetcode
+* Codechef
 * Young&Yandex Trainings
 * Tinkoff Generation
 * Сodeforces
