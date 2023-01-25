@@ -1,12 +1,11 @@
 ### Hi there 👋
-My name is Maria and now I'm a first year student of Computer Technologies Department in ITMO University. I can write code in 5 languages, I don't eat, I don't sleep and I do ballroom dancing.
+My name is Maria and now I'm a first year student of Computer Technologies Department in ITMO University. I can write code in 5 languages, do ballroom dancing and really love coding and search the team for my startup.
 
 And... Wanna take part in ICPC in the team of St. Petersburg State University.
 
 ### ⚡ Skills
 * Python
 * C++
-* Solidity
 * good knowledge of Algorithms and Data Structures
 * good knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
 * English - B2
@@ -27,6 +26,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 * School of Data Analysis from Yandex (soon) 
 
 ### 📈 GitHub Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minstradamuss&show_icons=true&theme=merko)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&langs_count=5&theme=tokyonight)]()
@@ -37,7 +37,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 - DL
 - Strong AI in industry
 - Data Science
-- Python Backend
+- Python developer
 - C++ developer
 
 ### 💬 How to reach me: 
