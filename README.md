@@ -37,8 +37,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 - DL
 - Strong AI in industry
 - Data Science
-- Python developer
-- C++ developer
+- Software engineering (C++, Python)
 
 ### 💬 How to reach me: 
 * Telegram: @minstradamussss
