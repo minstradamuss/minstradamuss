@@ -41,5 +41,4 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 
 ### 💬 How to reach me: 
 * Telegram: @minstradamussss
-* e-mail_1: marialembomail@gmail.com
-* e-mail_2: 368453@niuitmo.ru
+* e-mail: mrloskutova.work@gmail.com
