@@ -16,7 +16,7 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 
 ### 💜 Work experience
 * think cell (internship, C++ developer)
-* next step - only Russian companies
+* Russian companies
 
 ### 🗿 Algo trainings
 * Leetcode
