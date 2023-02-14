@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Maria and now I'm a first year student of Computer Technologies Department in ITMO University. I can write code in 5 languages, do ballroom dancing, love contemporary and pop art, really love coding and search the team for my startup.
+My name is Maria and now I'm a first year student of Modern Programming of the Faculty of Mathematics and Computer Sciences of St. Petersburg State University. I can write code in 5 languages, do ballroom dancing, love contemporary and pop art, really love coding and search the team for my startup.
 
 And... Wanna take part in ICPC in the team of St. Petersburg State University.
 
@@ -11,11 +11,10 @@ And... Wanna take part in ICPC in the team of St. Petersburg State University.
 * English - B2
 
 ### 🍀 Education
-* Computer Technologies ITMO University (September 2022 - now)
-* St
+* Computer Technologies, ITMO University (September 2022 - February 2023)
+* Modern Programming, St. Petersburg State University (February 2023 - now)
 
 ### 💜 Work experience
-* think cell (internship, C++ developer)
 * Russian companies
 
 ### 🗿 Algo trainings
