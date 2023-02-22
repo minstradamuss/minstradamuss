@@ -6,8 +6,6 @@ All my dreams come true...
 ### ⚡ Skills
 * Python
 * C++
-* good knowledge of Algorithms and Data Structures
-* good knowledge of Keras, Catboost, Scikit-learn, Pandas, TensorFlow
 * English - B2
 
 ### 🍀 Education
@@ -15,7 +13,7 @@ All my dreams come true...
 * Modern Programming, St. Petersburg State University (February 2023 - now)
 
 ### 💜 Work experience
-* Russian companies
+* Russian companies (updated)
 
 ### 🗿 Algo trainings
 * Leetcode
@@ -23,7 +21,7 @@ All my dreams come true...
 * Young&Yandex Trainings
 * Tinkoff Generation
 * Сodeforces
-* School of Data Analysis from Yandex (soon) 
+* School of Data Analysis from Yandex (updated) 
 
 ### 📈 GitHub Stats
 
