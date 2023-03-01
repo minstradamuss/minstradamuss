@@ -11,7 +11,7 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 * Modern Programming, St. Petersburg State University (February 2023 - now)
 
 ### 💜 Work experience
-* ООО "СКИЛ" (Саратов) (March 2023 - now)
+* ООО "СКИЛ" (March 2023 - now)
 
 ### 🗿 Algo trainings
 * Leetcode
