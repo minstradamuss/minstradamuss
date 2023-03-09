@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Maria and now I'm a first year student of Modern Programming of the Faculty of Mathematics and Computer Sciences of St. Petersburg State University. I can write code in 4 languages, do ballroom dancing, love contemporary and pop art, really love coding and search the team for my startup. I am a candidate for Master of Sports in rhythmic gymnastics, a former member of the Saratov region national team.
+My name is Maria and now I'm a first year student of Modern Programming of the Faculty of Mathematics and Computer Sciences of St. Petersburg State University. I love contemporary and pop art, really love coding and search the team for my startup. I am a candidate for Master of Sports in rhythmic gymnastics, a former member of the Saratov region national team.
 
 ### ⚡ Skills
 * Python
