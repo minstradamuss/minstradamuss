@@ -19,7 +19,7 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 * Young&Yandex Trainings
 * Tinkoff Generation
 * Сodeforces
-* School of Data Analysis from Yandex (updated) 
+* School of Data Analysis from Yandex (maybe) 
 
 ### 📈 GitHub Stats
 
