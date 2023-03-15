@@ -36,5 +36,5 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 - Software engineering (C++, Python)
 
 ### 💬 How to reach me: 
-* Telegram: @minstradamussss
+* Telegram: @mariialoskutova
 * e-mail: mrloskutova.work@gmail.com
