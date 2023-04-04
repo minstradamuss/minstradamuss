@@ -3,7 +3,7 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 
 ### ⚡ Skills
 * Python
-* C++, С, С#
+* C++/С/С#
 * Kotlin
 * English - B2
 
