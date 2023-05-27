@@ -20,6 +20,8 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&langs_count=5&theme=tokyonight)]()
 
+![](https://komarev.com/ghpvc/?username=minstradamuss&color=blueviolet)
+
 
 ### 🌱 Interests:
 - ML (strong AI in industry)
