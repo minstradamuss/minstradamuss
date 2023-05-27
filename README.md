@@ -14,14 +14,6 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 ### 💜 Work experience
 * SKIL LLC (March 2023 - now) - software developer
 
-### 🗿 Algo trainings
-* Leetcode
-* Codechef
-* Young&Yandex Trainings
-* Tinkoff Generation
-* Сodeforces
-* School of Data Analysis from Yandex (maybe) 
-
 ### 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minstradamuss&show_icons=true&theme=merko)
@@ -30,11 +22,8 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 
 
 ### 🌱 Interests:
-- ML
-- DL
-- Strong AI in industry
-- Data Science
-- Software engineering (C++, Python)
+- ML (strong AI in industry)
+- Software engineering
 
 ### 💬 How to reach me: 
 * Telegram: @mariialoskutova
