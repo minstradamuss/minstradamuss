@@ -16,7 +16,7 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 
 ### 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&langs_count=5&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)      [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minstradamuss&langs_count=5&theme=tokyonight)]()
 
 ![](https://komarev.com/ghpvc/?username=minstradamuss&color=blueviolet)
 
