@@ -5,7 +5,8 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 * Python
 * C++ / С / С#
 * Kotlin
-* English - B2, Сhinese - 1
+* English - B2
+* Сhinese - 1
 
 ### 🍀 Education
 * Computer Technologies, ITMO University (September 2022 - February 2023)
