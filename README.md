@@ -24,7 +24,8 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 
 ### 🌱 Interests:
 - ML (strong AI in industry)
-- Software engineering
+- Software development
+- Engineering (Robotics Engineering)
 
 ### 💬 How to reach me: 
 * Telegram: @mariialoskutova
