@@ -14,6 +14,7 @@ My name is Maria and now I'm a first year student of Modern Programming of the F
 
 ### 💜 Work experience
 * SKIL LLC (March 2023 - now) - software developer
+* new
 
 ### 📈 GitHub Stats
 
