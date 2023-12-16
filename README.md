@@ -4,7 +4,8 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 ### ⚡ Skills
 * Python
 * C++ / С / С#
-* Haskell, Bison
+* Haskell
+* Bison, Antlr
 * Kotlin, Java
 * English - B2
 
