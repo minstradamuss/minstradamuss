@@ -7,6 +7,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 * Haskell
 * Bison, Antlr
 * Java
+* Coq
 * English - B2
 
 ### 🍀 Education
@@ -15,6 +16,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 
 ### 💜 Work experience
 * SKIL LLC
+* Yandex.Project
 
 ### 📈 GitHub Stats
 
