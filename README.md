@@ -8,7 +8,6 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 * Bison, Antlr
 * Java
 * Coq
-* English - B2
 
 ### 🍀 Education
 * Computer Technologies, ITMO University (September 2022 - February 2023)
