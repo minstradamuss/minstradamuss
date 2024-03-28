@@ -4,10 +4,10 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 ### ⚡ Skills
 * Python
 * C++ / С / С#
-* Haskell
+* Haskell, Coq
 * Bison, Antlr
 * Java
-* Coq
+* Prolog
 
 ### 🍀 Education
 * Computer Technologies, ITMO University (September 2022 - February 2023)
