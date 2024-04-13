@@ -14,7 +14,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 * Modern Programming, St. Petersburg State University (February 2023 - now)
 
 ### 💜 Work experience
-* SKIL LLC
+* SKIL LLC (2023 - now)
 * Yandex.Project
 
 ### 📈 GitHub Stats
