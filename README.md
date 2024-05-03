@@ -17,6 +17,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 * SKIL LLC (2023 - now)
 * Yandex.Project
 * BASIS (2024)
+* updated soon
 
 ### 📈 GitHub Stats
 
