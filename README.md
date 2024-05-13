@@ -17,7 +17,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 * SKIL LLC (2023 - now)
 * Yandex.Project
 * BASIS (2024)
-* the customer at the Big Mathematical Workshop-2024 (An event taking place within the framework of the International Forum for Technological Development TECHNOPROM-2024)
+* the customer at the Big Mathematical Workshop-2024 (an event taking place within the framework of the International Forum for Technological Development TECHNOPROM-2024)
 * updated soon
 
 ### 📈 GitHub Stats
