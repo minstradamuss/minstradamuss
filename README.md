@@ -12,6 +12,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 ### 🍀 Education
 * Computer Technologies, ITMO University (September 2022 - February 2023)
 * Modern Programming, St. Petersburg State University (February 2023 - now)
+* Yandex School of Data Analysis (September 2024 - now)
 
 ### 💜 Work experience
 * SKIL LLC (2023)
