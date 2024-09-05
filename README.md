@@ -16,7 +16,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 * Yandex School of Data Analysis (September 2024 - now)
 
 ### 💜 Work experience
-* SKIL LLC (2023 - now)
+* SKIL LLC (2023 - now) (development of software for interpretation of geophysical material and development of a module for partial replacement of manual interpretation with AI)
 * Yandex.Project (in the patenting process)
 * BASIS (2024)
 * the customer at the Big Mathematical Workshop-2024 (an event taking place within the framework of the International Forum for Technological Development TECHNOPROM-2024)
