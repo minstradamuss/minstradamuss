@@ -16,6 +16,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 ### 💜 Work experience
 * SKIL LLC (2023 - now) (development of software for interpretation of geophysical material and development of a module for partial replacement of manual interpretation with AI)
 * Yandex.Project (2024) (February 2024 - May 2024) (in the patenting process)
+* Infotecs (2023) (internship)
 * BASIS (2024) (internship)
 * the customer at the Big Mathematical Workshop-2024 (an event taking place within the framework of the International Forum for Technological Development TECHNOPROM-2024) (2024)
 * updated soon
