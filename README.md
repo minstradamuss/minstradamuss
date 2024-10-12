@@ -18,7 +18,7 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 * Yandex.Project (2024) (February 2024 - May 2024) (in the patenting process)
 * Infotecs (2023) (internship)
 * BASIS (2024) (internship)
-* the customer at the Big Mathematical Workshop-2024 (an event taking place within the framework of the International Forum for Technological Development TECHNOPROM-2024) (2024)
+* scientific supervisor of the project in the Big Mathematical Workshop-2024 (an event taking place within the framework of the International Forum for Technological Development TECHNOPROM-2024) (2024)
 * updated soon
 
 ### 📈 GitHub Stats
