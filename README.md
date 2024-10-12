@@ -36,4 +36,4 @@ My name is Maria and now I'm a second year student of Modern Programming of the 
 
 ### 💬 How to reach me: 
 * Telegram: @mariialoskutova
-* e-mail: mrloskutova.work@gmail.com
+* e-mail: marialembomail@gmail.com
